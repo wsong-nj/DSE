@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>deadlock0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt27_t29t28"/>
+      <place id="Pt28_t96"/>
+      <place id="Pt96_t99"/>
+      <place id="Pt99_t81"/>
+      <place id="Pt81_t84"/>
+      <place id="Pt84_t133"/>
+      <place id="Pt133_t136"/>
+      <place id="Pt136_t73"/>
+      <place id="Pt73_t76"/>
+      <place id="Pt76_t126"/>
+      <place id="Pt126_t129"/>
+      <place id="Pt29"/>
+      <place id="Pt28"/>
+      <transition id="t27"/>
+      <transition id="t29"/>
+      <transition id="t28"/>
+      <transition id="t96"/>
+      <transition id="t99"/>
+      <transition id="t81"/>
+      <transition id="t84"/>
+      <transition id="t133"/>
+      <transition id="t136"/>
+      <transition id="t73"/>
+      <transition id="t76"/>
+      <transition id="t126"/>
+      <transition id="t129"/>
+      <transition id="AND-join"/>
+      <arc id="a0" source="t27" target="Pt27_t29t28"/>
+      <arc id="a1" source="Pt27_t29t28" target="t29"/>
+      <arc id="a2" source="Pt27_t29t28" target="t28"/>
+      <arc id="a3" source="t28" target="Pt28_t96"/>
+      <arc id="a4" source="Pt28_t96" target="t96"/>
+      <arc id="a5" source="t96" target="Pt96_t99"/>
+      <arc id="a6" source="Pt96_t99" target="t99"/>
+      <arc id="a7" source="t99" target="Pt99_t81"/>
+      <arc id="a8" source="Pt99_t81" target="t81"/>
+      <arc id="a9" source="t81" target="Pt81_t84"/>
+      <arc id="a10" source="Pt81_t84" target="t84"/>
+      <arc id="a11" source="t84" target="Pt84_t133"/>
+      <arc id="a12" source="Pt84_t133" target="t133"/>
+      <arc id="a13" source="t133" target="Pt133_t136"/>
+      <arc id="a14" source="Pt133_t136" target="t136"/>
+      <arc id="a15" source="t136" target="Pt136_t73"/>
+      <arc id="a16" source="Pt136_t73" target="t73"/>
+      <arc id="a17" source="t73" target="Pt73_t76"/>
+      <arc id="a18" source="Pt73_t76" target="t76"/>
+      <arc id="a19" source="t76" target="Pt76_t126"/>
+      <arc id="a20" source="Pt76_t126" target="t126"/>
+      <arc id="a21" source="t126" target="Pt126_t129"/>
+      <arc id="a22" source="Pt126_t129" target="t129"/>
+      <arc id="a23" source="t29" target="Pt29"/>
+      <arc id="a24" source="Pt29" target="AND-join"/>
+      <arc id="a25" source="t129" target="Pt28"/>
+      <arc id="a26" source="Pt28" target="AND-join"/>
+    </page>
+  </net>
+</pnml>

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Log>
+  <trace id="0">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t4"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t107"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t111"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t99"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t102"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t64"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t67"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+	</event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t71"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t74"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t27"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t30"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t55"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t57"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+	</event>
+  </trace>
+  <trace id="1">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t4"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t107"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t111"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t99"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t102"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t64"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t67"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+	</event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t71"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t74"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t27"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t28"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t46"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t50"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t78"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t81"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t92"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t95"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t85"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t88"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="2">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t4"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t107"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t111"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t99"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t102"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t64"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t67"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+	</event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t71"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t74"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t27"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t29"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t115"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t118"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t38"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t40"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t54"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t57"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="3">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t4"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t107"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t111"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t99"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t102"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t64"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t67"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+	</event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t71"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t74"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t27"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t29"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t115"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t118"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t38"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t39"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t47"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t50"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t78"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t81"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t92"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t95"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t85"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+	<event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="t88"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+</Log>

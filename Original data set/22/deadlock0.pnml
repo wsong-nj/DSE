@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>deadlock0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt11_t12t13"/>
+      <place id="Pt12_t14"/>
+      <place id="Pt13_t15"/>
+      <place id="Pt15_t16"/>
+      <place id="Pt12"/>
+      <place id="Pt13"/>
+      <transition id="t11"/>
+      <transition id="t12"/>
+      <transition id="t13"/>
+      <transition id="t14"/>
+      <transition id="t15"/>
+      <transition id="t16"/>
+      <transition id="AND-join"/>
+      <arc id="a0" source="t11" target="Pt11_t12t13"/>
+      <arc id="a1" source="Pt11_t12t13" target="t12"/>
+      <arc id="a2" source="Pt11_t12t13" target="t13"/>
+      <arc id="a3" source="t12" target="Pt12_t14"/>
+      <arc id="a4" source="Pt12_t14" target="t14"/>
+      <arc id="a5" source="t13" target="Pt13_t15"/>
+      <arc id="a6" source="Pt13_t15" target="t15"/>
+      <arc id="a7" source="t15" target="Pt15_t16"/>
+      <arc id="a8" source="Pt15_t16" target="t16"/>
+      <arc id="a9" source="t14" target="Pt12"/>
+      <arc id="a10" source="Pt12" target="AND-join"/>
+      <arc id="a11" source="t16" target="Pt13"/>
+      <arc id="a12" source="Pt13" target="AND-join"/>
+    </page>
+  </net>
+</pnml>

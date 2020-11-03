@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>synchronization0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt2_t48"/>
+      <place id="Pt2_t49"/>
+      <place id="Pt2_t57"/>
+      <place id="Pt2_t55"/>
+      <place id="Pt59_t47"/>
+      <place id="Pt57_t59"/>
+      <place id="Pt55_t59"/>
+      <place id="XOR-join"/>
+      <transition id="t2"/>
+      <transition id="t48"/>
+      <transition id="t49"/>
+      <transition id="t57"/>
+      <transition id="t55"/>
+      <transition id="t59"/>
+      <transition id="t47"/>
+      <arc id="a0" source="t2" target="Pt2_t48"/>
+      <arc id="a1" source="Pt2_t48" target="t48"/>
+      <arc id="a2" source="t2" target="Pt2_t49"/>
+      <arc id="a3" source="Pt2_t49" target="t49"/>
+      <arc id="a4" source="t2" target="Pt2_t57"/>
+      <arc id="a5" source="Pt2_t57" target="t57"/>
+      <arc id="a6" source="t2" target="Pt2_t55"/>
+      <arc id="a7" source="Pt2_t55" target="t55"/>
+      <arc id="a8" source="t59" target="Pt59_t47"/>
+      <arc id="a9" source="Pt59_t47" target="t47"/>
+      <arc id="a10" source="t57" target="Pt57_t59"/>
+      <arc id="a11" source="Pt57_t59" target="t59"/>
+      <arc id="a12" source="t55" target="Pt55_t59"/>
+      <arc id="a13" source="Pt55_t59" target="t59"/>
+      <arc id="a14" source="t48" target="XOR-join"/>
+      <arc id="a15" source="t49" target="XOR-join"/>
+      <arc id="a16" source="t47" target="XOR-join"/>
+    </page>
+  </net>
+</pnml>

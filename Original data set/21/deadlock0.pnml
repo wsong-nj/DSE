@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>deadlock0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt5_t6t7"/>
+      <place id="Pt6"/>
+      <place id="Pt7"/>
+      <transition id="t5"/>
+      <transition id="t6"/>
+      <transition id="t7"/>
+      <transition id="AND-join"/>
+      <arc id="a0" source="t5" target="Pt5_t6t7"/>
+      <arc id="a1" source="Pt5_t6t7" target="t6"/>
+      <arc id="a2" source="Pt5_t6t7" target="t7"/>
+      <arc id="a3" source="t6" target="Pt6"/>
+      <arc id="a4" source="Pt6" target="AND-join"/>
+      <arc id="a5" source="t7" target="Pt7"/>
+      <arc id="a6" source="Pt7" target="AND-join"/>
+    </page>
+  </net>
+</pnml>

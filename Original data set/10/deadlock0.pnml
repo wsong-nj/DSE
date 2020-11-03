@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>deadlock0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt65_t67t66"/>
+      <place id="Pt67_t84"/>
+      <place id="Pt66_t187"/>
+      <place id="Pt84_t87"/>
+      <place id="Pt87_t173"/>
+      <place id="Pt173_t176"/>
+      <place id="Pt176_t55"/>
+      <place id="Pt55_t56"/>
+      <place id="Pt56_t136"/>
+      <place id="Pt136_t139"/>
+      <place id="Pt139_t101"/>
+      <place id="Pt101_t103"/>
+      <place id="Pt187_t190"/>
+      <place id="Pt190_t77"/>
+      <place id="Pt77_t80t79t78"/>
+      <place id="Pt80_t150"/>
+      <place id="Pt79_t118"/>
+      <place id="Pt78_t143"/>
+      <place id="Pt150_t153"/>
+      <place id="Pt153_t94"/>
+      <place id="Pt94t92t93_t96"/>
+      <place id="Pt118_t121"/>
+      <place id="Pt121_t92"/>
+      <place id="Pt143_t146"/>
+      <place id="Pt146_t114"/>
+      <place id="Pt114_t111"/>
+      <place id="Pt111_t93"/>
+      <place id="Pt67"/>
+      <place id="Pt66"/>
+      <transition id="t65"/>
+      <transition id="t67"/>
+      <transition id="t66"/>
+      <transition id="t84"/>
+      <transition id="t103"/>
+      <transition id="t87"/>
+      <transition id="t173"/>
+      <transition id="t176"/>
+      <transition id="t55"/>
+      <transition id="t56"/>
+      <transition id="t136"/>
+      <transition id="t139"/>
+      <transition id="t101"/>
+      <transition id="t187"/>
+      <transition id="t190"/>
+      <transition id="t77"/>
+      <transition id="t80"/>
+      <transition id="t79"/>
+      <transition id="t78"/>
+      <transition id="t150"/>
+      <transition id="t153"/>
+      <transition id="t94"/>
+      <transition id="t96"/>
+      <transition id="t118"/>
+      <transition id="t121"/>
+      <transition id="t92"/>
+      <transition id="t143"/>
+      <transition id="t146"/>
+      <transition id="t114"/>
+      <transition id="t111"/>
+      <transition id="t93"/>
+      <transition id="AND-join"/>
+      <arc id="a0" source="t65" target="Pt65_t67t66"/>
+      <arc id="a1" source="Pt65_t67t66" target="t67"/>
+      <arc id="a2" source="Pt65_t67t66" target="t66"/>
+      <arc id="a3" source="t67" target="Pt67_t84"/>
+      <arc id="a4" source="Pt67_t84" target="t84"/>
+      <arc id="a5" source="t66" target="Pt66_t187"/>
+      <arc id="a6" source="Pt66_t187" target="t187"/>
+      <arc id="a7" source="t84" target="Pt84_t87"/>
+      <arc id="a8" source="Pt84_t87" target="t87"/>
+      <arc id="a9" source="t87" target="Pt87_t173"/>
+      <arc id="a10" source="Pt87_t173" target="t173"/>
+      <arc id="a11" source="t173" target="Pt173_t176"/>
+      <arc id="a12" source="Pt173_t176" target="t176"/>
+      <arc id="a13" source="t176" target="Pt176_t55"/>
+      <arc id="a14" source="Pt176_t55" target="t55"/>
+      <arc id="a15" source="t55" target="Pt55_t56"/>
+      <arc id="a16" source="Pt55_t56" target="t56"/>
+      <arc id="a17" source="t56" target="Pt56_t136"/>
+      <arc id="a18" source="Pt56_t136" target="t136"/>
+      <arc id="a19" source="t136" target="Pt136_t139"/>
+      <arc id="a20" source="Pt136_t139" target="t139"/>
+      <arc id="a21" source="t139" target="Pt139_t101"/>
+      <arc id="a22" source="Pt139_t101" target="t101"/>
+      <arc id="a23" source="t101" target="Pt101_t103"/>
+      <arc id="a24" source="Pt101_t103" target="t103"/>
+      <arc id="a25" source="t187" target="Pt187_t190"/>
+      <arc id="a26" source="Pt187_t190" target="t190"/>
+      <arc id="a27" source="t190" target="Pt190_t77"/>
+      <arc id="a28" source="Pt190_t77" target="t77"/>
+      <arc id="a29" source="t77" target="Pt77_t80t79t78"/>
+      <arc id="a30" source="Pt77_t80t79t78" target="t80"/>
+      <arc id="a31" source="Pt77_t80t79t78" target="t79"/>
+      <arc id="a32" source="Pt77_t80t79t78" target="t78"/>
+      <arc id="a33" source="t80" target="Pt80_t150"/>
+      <arc id="a34" source="Pt80_t150" target="t150"/>
+      <arc id="a35" source="t79" target="Pt79_t118"/>
+      <arc id="a36" source="Pt79_t118" target="t118"/>
+      <arc id="a37" source="t78" target="Pt78_t143"/>
+      <arc id="a38" source="Pt78_t143" target="t143"/>
+      <arc id="a39" source="t150" target="Pt150_t153"/>
+      <arc id="a40" source="Pt150_t153" target="t153"/>
+      <arc id="a41" source="t153" target="Pt153_t94"/>
+      <arc id="a42" source="Pt153_t94" target="t94"/>
+      <arc id="a43" source="t94" target="Pt94t92t93_t96"/>
+      <arc id="a44" source="t92" target="Pt94t92t93_t96"/>
+      <arc id="a45" source="t93" target="Pt94t92t93_t96"/>
+      <arc id="a46" source="Pt94t92t93_t96" target="t96"/>
+      <arc id="a47" source="t118" target="Pt118_t121"/>
+      <arc id="a48" source="Pt118_t121" target="t121"/>
+      <arc id="a49" source="t121" target="Pt121_t92"/>
+      <arc id="a50" source="Pt121_t92" target="t92"/>
+      <arc id="a51" source="t143" target="Pt143_t146"/>
+      <arc id="a52" source="Pt143_t146" target="t146"/>
+      <arc id="a53" source="t146" target="Pt146_t114"/>
+      <arc id="a54" source="Pt146_t114" target="t114"/>
+      <arc id="a55" source="t114" target="Pt114_t111"/>
+      <arc id="a56" source="Pt114_t111" target="t111"/>
+      <arc id="a57" source="t111" target="Pt111_t93"/>
+      <arc id="a58" source="Pt111_t93" target="t93"/>
+      <arc id="a59" source="t103" target="Pt67"/>
+      <arc id="a60" source="Pt67" target="AND-join"/>
+      <arc id="a61" source="t96" target="Pt66"/>
+      <arc id="a62" source="Pt66" target="AND-join"/>
+    </page>
+  </net>
+</pnml>

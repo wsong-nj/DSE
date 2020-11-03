@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>synchronization0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt29_t18"/>
+      <place id="Pt29_t34"/>
+      <place id="Pt34_t37"/>
+      <place id="Pt37_t17"/>
+      <place id="XOR-join"/>
+      <transition id="t29"/>
+      <transition id="t18"/>
+      <transition id="t34"/>
+      <transition id="t37"/>
+      <transition id="t17"/>
+      <arc id="a0" source="t29" target="Pt29_t18"/>
+      <arc id="a1" source="Pt29_t18" target="t18"/>
+      <arc id="a2" source="t29" target="Pt29_t34"/>
+      <arc id="a3" source="Pt29_t34" target="t34"/>
+      <arc id="a4" source="t34" target="Pt34_t37"/>
+      <arc id="a5" source="Pt34_t37" target="t37"/>
+      <arc id="a6" source="t37" target="Pt37_t17"/>
+      <arc id="a7" source="Pt37_t17" target="t17"/>
+      <arc id="a8" source="t18" target="XOR-join"/>
+      <arc id="a9" source="t17" target="XOR-join"/>
+    </page>
+  </net>
+</pnml>

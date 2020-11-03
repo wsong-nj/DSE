@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pnml>
+  <net id="net0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>synchronization0.pnml</text>
+    </name>
+    <page id="n0">
+      <place id="Pt87_t123"/>
+      <place id="Pt87_t200"/>
+      <place id="Pt123_t129"/>
+      <place id="Pt200_t203"/>
+      <place id="Pt129_t269"/>
+      <place id="Pt269_t272"/>
+      <place id="Pt203_t49"/>
+      <place id="Pt49_t51"/>
+      <place id="Pt51_t162"/>
+      <place id="Pt162_t165"/>
+      <place id="XOR-join"/>
+      <transition id="t87"/>
+      <transition id="t123"/>
+      <transition id="t200"/>
+      <transition id="t129"/>
+      <transition id="t269"/>
+      <transition id="t272"/>
+      <transition id="t203"/>
+      <transition id="t49"/>
+      <transition id="t51"/>
+      <transition id="t162"/>
+      <transition id="t165"/>
+      <arc id="a0" source="t87" target="Pt87_t123"/>
+      <arc id="a1" source="Pt87_t123" target="t123"/>
+      <arc id="a2" source="t87" target="Pt87_t200"/>
+      <arc id="a3" source="Pt87_t200" target="t200"/>
+      <arc id="a4" source="t123" target="Pt123_t129"/>
+      <arc id="a5" source="Pt123_t129" target="t129"/>
+      <arc id="a6" source="t200" target="Pt200_t203"/>
+      <arc id="a7" source="Pt200_t203" target="t203"/>
+      <arc id="a8" source="t129" target="Pt129_t269"/>
+      <arc id="a9" source="Pt129_t269" target="t269"/>
+      <arc id="a10" source="t269" target="Pt269_t272"/>
+      <arc id="a11" source="Pt269_t272" target="t272"/>
+      <arc id="a12" source="t203" target="Pt203_t49"/>
+      <arc id="a13" source="Pt203_t49" target="t49"/>
+      <arc id="a14" source="t49" target="Pt49_t51"/>
+      <arc id="a15" source="Pt49_t51" target="t51"/>
+      <arc id="a16" source="t51" target="Pt51_t162"/>
+      <arc id="a17" source="Pt51_t162" target="t162"/>
+      <arc id="a18" source="t162" target="Pt162_t165"/>
+      <arc id="a19" source="Pt162_t165" target="t165"/>
+      <arc id="a20" source="t272" target="XOR-join"/>
+      <arc id="a21" source="t165" target="XOR-join"/>
+    </page>
+  </net>
+</pnml>
